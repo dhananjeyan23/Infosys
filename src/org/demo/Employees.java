@@ -3,7 +3,7 @@ package org.demo;
 public class Employees {
 	String ename1="padma";
 	String ename2="jeyan";
-	String ename3="psdjps";
+	String ename3="sai";
 	//create the 1st method empName
 			private void empName1() {
 			System.out.println("employeename : "+ename1);
